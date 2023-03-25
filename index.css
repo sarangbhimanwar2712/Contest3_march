@@ -1,0 +1,22 @@
+.body{
+    font-family: 'Helvetica Neue';
+}
+.nav1{
+    border: none;
+}
+.a{
+    color: rgba(13, 110, 253, 1) !important;
+}
+.p1{
+    font-weight: 400;
+}
+.card-body{
+    margin-bottom: 0px;
+}
+.form-control{
+    border-radius: 0px;
+}
+.table_a{
+    text-decoration: none;
+
+}
